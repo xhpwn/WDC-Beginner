@@ -1,0 +1,32 @@
+body {
+background-color : #8da6cf;
+}
+
+.heading {
+font-size : 3em;
+text-align : center;
+font-family : Arial;
+color : black;
+height : 12.5%;
+}
+
+.image {
+text-align : center;
+}
+
+.paragraph {
+font-size : 2em;
+text-align : center;
+font-family : Arial;
+color : #ffc003;
+}
+
+.column {
+width : 33%;
+height : 25%;
+font-size : 2em;
+font-family : Arial;
+color : #4900ff;
+float : left;
+text-align : center;
+}
